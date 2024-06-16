@@ -22,7 +22,7 @@
         "info.background": "#000000",
         "warning.background": "#0C0000",
         "scrollbar.thumb.border": "#ff904033",
-        "scrollbar_thumb.background": "#ff904077",
+        "scrollbar.thumb.background": "#ff904077",
         "scrollbar.track.background": "#00002200",
         "scrollbar.track.border": "#222222",
         "syntax": {
@@ -176,7 +176,7 @@
         "info.background": "#000000",
         "warning.background": "#0C0000",
         "scrollbar.thumb.border": "#ff904033",
-        "scrollbar_thumb.background": "#ff904077",
+        "scrollbar.thumb.background": "#ff904077",
         "scrollbar.track.background": "#00002200",
         "scrollbar.track.border": "#222222",
         "syntax": {
@@ -330,7 +330,7 @@
         "info.background": "#000000",
         "warning.background": "#0C0000",
         "scrollbar.thumb.border": "#C792EA33",
-        "scrollbar_thumb.background": "#C792EA77",
+        "scrollbar.thumb.background": "#C792EA77",
         "scrollbar.track.background": "#00002200",
         "scrollbar.track.border": "#222222",
         "syntax": {
@@ -484,7 +484,7 @@
         "info.background": "#000000",
         "warning.background": "#0C0000",
         "scrollbar.thumb.border": "#C792EA33",
-        "scrollbar_thumb.background": "#C792EA77",
+        "scrollbar.thumb.background": "#C792EA77",
         "scrollbar.track.background": "#00002200",
         "scrollbar.track.border": "#222222",
         "syntax": {
